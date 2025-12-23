@@ -1,0 +1,1 @@
+Troubleshooting: While implementing this project in a virtual environment, I encountered issues related to outdated modules and deprecated LangChain import paths. These issues were resolved by consulting the LangChain reference documentation and using ChatGPT for guidance.
